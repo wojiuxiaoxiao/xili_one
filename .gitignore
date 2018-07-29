@@ -1,0 +1,10 @@
+!public/
+public/*
+!public/splash/
+ssl/
+*.txt
+*.cer
+*.pem
+.idea
+.DS_Store
+*.pyc
